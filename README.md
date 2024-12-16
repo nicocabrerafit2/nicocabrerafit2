@@ -5,9 +5,9 @@
 Apasionado por crear soluciones tecnológicas eficientes. Especializado en [node.js, express, javascript].
 
 ### 🛠️ Tecnologías y Herramientas
-- Frontend: HTML, CSS, JavaScript,handlebars,ejs
 - Backend: Node.js, Express, sequelize, passport, jwt, faker, artillery,mongoose,bcrypt,multer,nodemailer,socket.io
 - Bases de datos: MongoDB, mysql
+- Frontend: HTML, CSS, JavaScript,handlebars,ejs
 - Herramientas: Git, Docker, Postman, Swagger, Artillery,mocha,chai,supertest,github,
 
 ### 📊 Mis Estadísticas de GitHub
